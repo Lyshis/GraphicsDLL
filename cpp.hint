@@ -1,0 +1,2 @@
+#define GRAPHICSDLL_API __declspec(dllexport)
+#define GRAPHICSDLL_API __declspec(dllimport)
